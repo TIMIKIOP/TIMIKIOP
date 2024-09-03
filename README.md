@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TIMIKIOP
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me utkarshthory12@gmail.com
 
